@@ -11,879 +11,879 @@ Weight CORE 0.2
 
 // Construction Buildings
 // Kbot Lab - Produces Kbots
-Weight ARMLAB 
-Limit ARMLAB 
+Weight ARMLAB 0
+Limit ARMLAB 0
 // Vehicle Plant - Produces Vehicles
-Weight ARMVP 
-Limit ARMVP 
+Weight ARMVP 0
+Limit ARMVP 0
 // Aircraft Plant - Produces Aircraft
-Weight ARMAP 
-Limit ARMAP 
+Weight ARMAP 0.5
+Limit ARMAP 99
 // Shipyard - Produces Ships
-Weight ARMSY 
-Limit ARMSY 
+Weight ARMSY 0.5
+Limit ARMSY 99
 // Hovercraft Platform - Builds Hovercraft
-Weight ARMHP 
-Limit ARMHP 
+Weight ARMHP 0.5
+Limit ARMHP 99
 // Seaplane Platform - Builds Seaplanes
 // Note: Seaplane Platform also builds aircraft Freedom Fighter and Lancet
-Weight ARMPLAT 
-Limit ARMPLAT 
+Weight ARMPLAT 0.5
+Limit ARMPLAT 99
 // Adv. Kbot Lab - Produces Kbots
-Weight ARMALAB 
-Limit ARMALAB 
+Weight ARMALAB 0
+Limit ARMALAB 0
 // Adv. Vehicle Plant - Produces Vehicles
-Weight ARMAVP 
-Limit ARMAVP 
+Weight ARMAVP 0
+Limit ARMAVP 0
 // Adv. Aircraft Plant - Produces Aircraft
-Weight ARMAAP 
-Limit ARMAAP
+Weight ARMAAP 0.8
+Limit ARMAAP 99
 // Adv. Shipyard - Produces Ships
-Weight ARMASY 
-Limit ARMASY 
+Weight ARMASY 0.8
+Limit ARMASY 99
 
 // Kbots, Level 1, built by Kbot Lab
 // Construction KBot - Tech Level 1
-Weight ARMCK 
-Limit ARMCK 
+Weight ARMCK 0
+Limit ARMCK 0
 // Peewee - Infantry Kbot
-Weight ARMPW 
-Limit ARMPW 
+Weight ARMPW 0
+Limit ARMPW 0
 // Rocko - Rocket Kbot
-Weight ARMROCK 
-Limit ARMROCK 
+Weight ARMROCK 0
+Limit ARMROCK 0
 // Hammer - Artillery Kbot
-Weight ARMHAM 
-Limit ARMHAM 
+Weight ARMHAM 0
+Limit ARMHAM 0
 // Jethro - Anti-Air Kbot
-Weight ARMJETH 
-Limit ARMJETH 
+Weight ARMJETH 0
+Limit ARMJETH 0
 
 // Kbots, Level 2, built by Adv. Kbot Lab
 // Adv. Construction Kbot - Tech Level 2
-Weight ARMACK 
-Limit ARMACK 
+Weight ARMACK 0
+Limit ARMACK 0
 // Zeus	- Assault Kbot
-Weight ARMZEUS 
-Limit ARMZEUS 
+Weight ARMZEUS 0
+Limit ARMZEUS 0
 // Fido	- Assault Kbot
-Weight ARMFIDO 
-Limit ARMFIDO 
+Weight ARMFIDO 0
+Limit ARMFIDO 0
 // Invader - Crawling Bomb
-Weight ARMVADER 
-Limit ARMVADER 
+Weight ARMVADER 0
+Limit ARMVADER 0
 // Eraser - Radar Jammer
-Weight ARMASER 
-Limit ARMASER 
+Weight ARMASER 0
+Limit ARMASER 0
 // Zipper - Fast Attack Kbot
-Weight ARMFAST 
-Limit ARMFAST 
+Weight ARMFAST 0
+Limit ARMFAST 0
 // Maverick - Gun-slinging Kbot
-Weight ARMMAV 
-Limit ARMMAV 
+Weight ARMMAV 0
+Limit ARMMAV 0
 // Marky - Mobile Radar Kbot
-Weight ARMMARK 
-Limit ARMMARK 
+Weight ARMMARK 0
+Limit ARMMARK 0
 // Pelican - Amphibious Kbot
-Weight ARMAMPH 
-Limit ARMAMPH 
+Weight ARMAMPH 0
+Limit ARMAMPH 0
 // Shooter - Sniper Kbot
-Weight ARMSNIPE 
-Limit ARMSNIPE 
+Weight ARMSNIPE 0
+Limit ARMSNIPE 0
 // Infiltrator - SPY Kbot
-Weight ARMSPY 
-Limit ARMSPY 
+Weight ARMSPY 0
+Limit ARMSPY 0
 // Decoy Commander - Decoy Commander
-Weight ARMDECOM 
-Limit ARMDECOM 
+Weight ARMDECOM 0
+Limit ARMDECOM 0
 // FARK - Fast Assist and Repair Kbot
-Weight ARMFARK 
-Limit ARMFARK 
+Weight ARMFARK 0
+Limit ARMFARK 0
 
 // Vehicles, Level 1, built by Vehicle Plant
 // Construction Vehicle - Tech Level 1
-Weight ARMCV 
-Limit ARMCV 
+Weight ARMCV 0
+Limit ARMCV 0
 // Jeffy - Fast Attack Vehicle
-Weight ARMFAV 
-Limit ARMFAV 
+Weight ARMFAV 0
+Limit ARMFAV 0
 // Flash - Fast Assault Tank
-Weight ARMFLASH 
-Limit ARMFLASH 
+Weight ARMFLASH 0
+Limit ARMFLASH 0
 // Stumpy - Medium Assault Tank
-Weight ARMSTUMP 
-Limit ARMSTUMP 
+Weight ARMSTUMP 0
+Limit ARMSTUMP 0
 // Samson - Mobile Missile Launcher
-Weight ARMSAM 
-Limit ARMSAM 
+Weight ARMSAM 0
+Limit ARMSAM 0
 // Podger - Mine Layer Vehicle
-Weight ARMMLV 
-Limit ARMMLV 
+Weight ARMMLV 0
+Limit ARMMLV 0
 
 // Vehicles, Level 2, built by Adv. Vehicle Plant
 // Adv. Construction Vehicle - Tech Level 2
-Weight ARMACV 
-Limit ARMACV 
+Weight ARMACV 0
+Limit ARMACV 0
 // Triton - Amphibious Tank
-Weight ARMCROC 
-Limit ARMCROC 
+Weight ARMCROC 0
+Limit ARMCROC 0
 // Bulldog - Heavy Assault Tank
-Weight ARMBULL 
-Limit ARMBULL 
+Weight ARMBULL 0
+Limit ARMBULL 0
 // Jammer - Mobile Radar Jammer
-Weight ARMJAM 
-Limit ARMJAM 
+Weight ARMJAM 0
+Limit ARMJAM 0
 // Luger - Mobile Artillery
-Weight ARMMART 
-Limit ARMMART 
+Weight ARMMART 0
+Limit ARMMART 0
 // Spider - Spider Assault Vehicle
-Weight ARMSPID 
-Limit ARMSPID 
+Weight ARMSPID 0
+Limit ARMSPID 0
 // Seer	- Mobile Radar
-Weight ARMSEER 
-Limit ARMSEER 
+Weight ARMSEER 0
+Limit ARMSEER 0
 // Merl	- Mobile Rocket Launcher
-Weight ARMMERL 
-Limit ARMMERL 
+Weight ARMMERL 0
+Limit ARMMERL 0
 // Penetrator - Mobile Energy Weapon
-Weight ARMMANNI 
-Limit ARMMANNI 
+Weight ARMMANNI 0
+Limit ARMMANNI 0
 // Phalanx - Mobile Flak Vehicle
-Weight ARMYORK 
-Limit ARMYORK 
+Weight ARMYORK 0
+Limit ARMYORK 0
 // Scarab - Mobile Fortitude Missile Defense, protection from nuclear missiles
-Weight ARMSCAB 
-Limit ARMSCAB 
+Weight ARMSCAB 0
+Limit ARMSCAB 0
 // Panther - Lightning Tank
-Weight ARMLATNK 
-Limit ARMLATNK 
+Weight ARMLATNK 0
+Limit ARMLATNK 0
 
 // Aircraft, Level 1, built by Aircraft Plant
 // Construction Aircraft - Tech Level 1
-Weight ARMCA 
-Limit ARMCA 
+Weight ARMCA 0.3
+Limit ARMCA 10
 // Peeper - Air Scout
-Weight ARMPEEP 
-Limit ARMPEEP 
+Weight ARMPEEP 0
+Limit ARMPEEP 0
 // Freedom Fighter - Fighter
-Weight ARMFIG 
-Limit ARMFIG 
+Weight ARMFIG 0.2
+Limit ARMFIG 99
 // Thunder - Bomber
-Weight ARMTHUND 
-Limit ARMTHUND 
+Weight ARMTHUND 0
+Limit ARMTHUND 0
 // Atlas - Air Transport
-Weight ARMATLAS 
-Limit ARMATLAS 
+Weight ARMATLAS 0
+Limit ARMATLAS 0
 
 // Aircraft, Level 2, built by Adv. Aircraft Plant
 // Adv. Construction Aircraft - Tech Level 2
-Weight ARMACA 
-Limit ARMACA 
+Weight ARMACA 0.9
+Limit ARMACA 10
 // Brawler - Gunship
-Weight ARMBRAWL 
-Limit ARMBRAWL 
+Weight ARMBRAWL 0.5
+Limit ARMBRAWL 99
 // Phoenix - Bomber
-Weight ARMPNIX 
-Limit ARMPNIX 
+Weight ARMPNIX 0
+Limit ARMPNIX 0
 // Lancet - Torpedo Bomber
-Weight ARMLANCE 
-Limit ARMLANCE 
+Weight ARMLANCE 0.1
+Limit ARMLANCE 99
 // Hawk - Stealth Fighter
-Weight ARMHAWK 
-Limit ARMHAWK 
+Weight ARMHAWK 0.5
+Limit ARMHAWK 99
 // Eagle - Radar Plane
-Weight ARMAWAC 
-Limit ARMAWAC 
+Weight ARMAWAC 0
+Limit ARMAWAC 0
 
 // Ships, Level 1, built by Shipyard
 // Construction Ship - Tech Level 1
-Weight ARMCS 
-Limit ARMCS 
+Weight ARMCS 0.9
+Limit ARMCS 10
 // Skeeter - Scout Ship
-Weight ARMPT 
-Limit ARMPT 
+Weight ARMPT 0.1
+Limit ARMPT 99
 // Crusader - Destroyer
-Weight ARMROY 
-Limit ARMROY 
+Weight ARMROY 0.6
+Limit ARMROY 99
 // Hulk - Transport Ship
-Weight ARMTSHIP 
-Limit ARMTSHIP 
+Weight ARMTSHIP 0
+Limit ARMTSHIP 0
 // Lurker - Submarine
-Weight ARMSUB 
-Limit ARMSUB 
+Weight ARMSUB 0.1
+Limit ARMSUB 99
 
 // Ships, Level 2, built by Adv. Shipyard
 // Advanced Construction Sub - Tech Level 2
-Weight ARMACSUB 
-Limit ARMACSUB 
+Weight ARMACSUB 0.8
+Limit ARMACSUB 10
 // Colossus - Light Carrier
-Weight ARMCARRY 
-Limit ARMCARRY 
+Weight ARMCARRY 0
+Limit ARMCARRY 0
 // Piranha - Submarine Killer
-Weight ARMSUBK 
-Limit ARMSUBK 
+Weight ARMSUBK 0.1
+Limit ARMSUBK 99
 // Ranger - Missile Ship
-Weight ARMMSHIP 
-Limit ARMMSHIP 
+Weight ARMMSHIP 0.2
+Limit ARMMSHIP 99
 // Conqueror - Cruiser
-Weight ARMCRUS 
-Limit ARMCRUS 
+Weight ARMCRUS 0.4
+Limit ARMCRUS 99
 // Millenium - Battleship
-Weight ARMBATS 
-Limit ARMBATS 
+Weight ARMBATS 0.3
+Limit ARMBATS 99
 // Escort - Radar Jammer Ship
-Weight ARMSJAM 
-Limit ARMSJAM 
+Weight ARMSJAM 0
+Limit ARMSJAM 0
 // Archer - Anti-Air Ship
-Weight ARMAAS 
-Limit ARMAAS 
+Weight ARMAAS 0.3
+Limit ARMAAS 99
 // Fibber - Sonar Jamming Sub
-Weight ARMSCRAM 
-Limit ARMSCRAM 
+Weight ARMSCRAM 0
+Limit ARMSCRAM 0
 
 // Hovercraft, built by Hovercraft Platform
 // Construction Hovercraft - Tech Level 1
-Weight ARMCH 
-Limit ARMCH 
+Weight ARMCH 0.3
+Limit ARMCH 10
 // Skimmer - Scout Hovercraft
-Weight ARMSH 
-Limit ARMSH 
+Weight ARMSH 0.1
+Limit ARMSH 99
 // Anaconda - Hovertank
-Weight ARMANAC 
-Limit ARMANAC 
+Weight ARMANAC 0.4
+Limit ARMANAC 99
 // Swatter - Anti-Air Hovercraft
-Weight ARMAH 
-Limit ARMAH 
+Weight ARMAH 0.4
+Limit ARMAH 99
 // Wombat - Hovercraft Rocket Launcher
-Weight ARMMH 
-Limit ARMMH 
+Weight ARMMH 0.2
+Limit ARMMH 99
 // Bear - Transport Hovercraft
-Weight ARMTHOVR 
-Limit ARMTHOVR 
+Weight ARMTHOVR 0
+Limit ARMTHOVR 0
 
 // Seaplanes, built by Seaplane Platform
 // Note: Seaplane Platform also builds aircraft Freedom Fighter and Lancet
 // Construction Seaplane - Tech Level 1
-Weight ARMCSA 
-Limit ARMCSA 
+Weight ARMCSA 0.1
+Limit ARMCSA 10
 // Seahawk - Airborne Sonar
-Weight ARMSEHAK 
-Limit ARMSEHAK 
+Weight ARMSEHAK 0
+Limit ARMSEHAK 0
 // Tornado - Seaplane Fighter
-Weight ARMSFIG 
-Limit ARMSFIG 
+Weight ARMSFIG 0.2
+Limit ARMSFIG 99
 // Albatross - Torpedo Seaplane
-Weight ARMSEAP 
-Limit ARMSEAP 
+Weight ARMSEAP 0.2
+Limit ARMSEAP 99
 
 // Mines
 // Tiny - Low Damage, Med. Range Mine
-Weight ARMMINE1 
-Limit ARMMINE1 
+Weight ARMMINE1 0
+Limit ARMMINE1 0
 // Area Mine - Low Damage, Large Range Mine
-Weight ARMMINE2 
-Limit ARMMINE2 
+Weight ARMMINE2 0
+Limit ARMMINE2 0
 // Focused Mine - Med. Damage, Small Range Mine
-Weight ARMMINE3 
-Limit ARMMINE3 
+Weight ARMMINE3 0
+Limit ARMMINE3 0
 // HE Area Mine - Med. Damage, Large Range Mine
-Weight ARMMINE4 
-Limit ARMMINE4 
+Weight ARMMINE4 0
+Limit ARMMINE4 0
 // Precision Mine - High Damage, Small Range Mine
-Weight ARMMINE5 
-Limit ARMMINE5 
+Weight ARMMINE5 0
+Limit ARMMINE5 0
 // Nuclear Mine - Nuclear Mine
-Weight ARMMINE6 
-Limit ARMMINE6 
+Weight ARMMINE6 0
+Limit ARMMINE6 0
 
 // Defenses and LRPC, Land, Level 1
 // L.L.T. - Light Laser Tower
-Weight ARMLLT 
-Limit ARMLLT 
+Weight ARMLLT 0
+Limit ARMLLT 0
 // Sentinel - Heavy Laser Tower
-Weight ARMHLT 
-Limit ARMHLT 
+Weight ARMHLT 0
+Limit ARMHLT 0
 // Defender - Missile Tower
-Weight ARMRL 
-Limit ARMRL 
+Weight ARMRL 0.9
+Limit ARMRL 99
 // Dragon's Teeth - Perimeter Defense
-Weight ARMDRAG 
-Limit ARMDRAG 
+Weight ARMDRAG 0
+Limit ARMDRAG 0
 // Guardian - Plasma Battery
-Weight ARMGUARD 
-Limit ARMGUARD 
+Weight ARMGUARD 0.8
+Limit ARMGUARD 99
 
 // Defenses and LRPC, Land, Level 2
 // Big Bertha - Long Range Plasma Cannon
-Weight ARMBRTHA 
-Limit ARMBRTHA 
+Weight ARMBRTHA 0.5
+Limit ARMBRTHA 99
 // Retaliator - Nuclear Missile Launcher
-Weight ARMSILO 
-Limit ARMSILO 
+Weight ARMSILO 0
+Limit ARMSILO 0
 // Annihilator - Energy weapon
-Weight ARMANNI 
-Limit ARMANNI 
+Weight ARMANNI 0.5
+Limit ARMANNI 99
 // Protector - Anti Missile Defense System
-Weight ARMAMD 
-Limit ARMAMD 
+Weight ARMAMD 0
+Limit ARMAMD 0
 // Flakker - Anti-Air Flak Gun
-Weight ARMFLAK 
-Limit ARMFLAK 
+Weight ARMFLAK 0.9
+Limit ARMFLAK 99
 // Fortification Wall - Perimeter Defense
-Weight ARMFORT 
-Limit ARMFORT 
+Weight ARMFORT 0
+Limit ARMFORT 0
 // Ambusher - Pop-up Heavy Cannon
-Weight ARMAMB 
-Limit ARMAMB 
+Weight ARMAMB 0.1
+Limit ARMAMB 99
 // Vulcan - Rapid Fire Plasma Cannon
-Weight ARMVULC 
-Limit ARMVULC 
+Weight ARMVULC 0.3
+Limit ARMVULC 5
 // Stunner - EMP Missile Launcher
-Weight ARMEMP 
-Limit ARMEMP 
+Weight ARMEMP 0
+Limit ARMEMP 0
 
 // Defenses and LRPC, Naval, Level 1
 // Defender - NS - Missile Tower - Naval Series
-Weight ARMFRT 
-Limit ARMFRT 
+Weight ARMFRT 0.9
+Limit ARMFRT 99
 // Floating Dragon's Teeth - Floating Dragon's Teeth
-Weight ARMFDRAG 
-Limit ARMFDRAG 
+Weight ARMFDRAG 0
+Limit ARMFDRAG 0
 // Stingray - Floating Heavy Laser Tower
-Weight ARMFHLT 
-Limit ARMFHLT 
+Weight ARMFHLT 0.1
+Limit ARMFHLT 99
 // Torpedo Launcher - Torpedo Launcher
-Weight ARMTL 
-Limit ARMTL 
+Weight ARMTL 0.3
+Limit ARMTL 99
 
 // Defenses and LRPC, Naval, Level 2
 // Advanced Torpedo Launcher - Advanced Torpedo Launcher
-Weight ARMATL 
-Limit ARMATL 
+Weight ARMATL 0.9
+Limit ARMATL 99
 
 // Resource Production and Storage, Land, Level 1
 // Solar Collector - Produces Energy
-Weight ARMSOLAR 
-Limit ARMSOLAR 
+Weight ARMSOLAR 0.8
+Limit ARMSOLAR 10
 // Wind Generator - Produces Energy
-Weight ARMWIN 
-Limit ARMWIN 
+Weight ARMWIN 0.8
+Limit ARMWIN 10
 // Geothermal Powerplant - Produces Energy
-Weight ARMGEO 
-Limit ARMGEO 
+Weight ARMGEO 0.8
+Limit ARMGEO 99
 // Metal Extractor - Extracts Metal
-Weight ARMMEX 
-Limit ARMMEX 
+Weight ARMMEX 0.8
+Limit ARMMEX 99
 // Metal Maker - Converts Energy into Metal
-Weight ARMMAKR 
-Limit ARMMAKR 
+Weight ARMMAKR 0
+Limit ARMMAKR 0
 // Energy Storage - Increases Energy Storage
-Weight ARMESTOR 
-Limit ARMESTOR 
+Weight ARMESTOR 0.1
+Limit ARMESTOR 3
 // Metal Storage - Increases Metal Storage
-Weight ARMMSTOR 
-Limit ARMMSTOR 
+Weight ARMMSTOR 0.1
+Limit ARMMSTOR 3
 
 // Resource Production and Storage, Land, Level 2
 // Fusion Reactor - Produces Energy
-Weight ARMFUS 
-Limit ARMFUS 
+Weight ARMFUS 0.7
+Limit ARMFUS 7
 // Cloakable Fusion Reactor - Produces Energy
-Weight ARMCKFUS 
-Limit ARMCKFUS 
+Weight ARMCKFUS 0
+Limit ARMCKFUS 0
 // Moho Mine - Advanced Metal Extractor
-Weight ARMMOHO 
-Limit ARMMOHO 
+Weight ARMMOHO 0.9
+Limit ARMMOHO 99
 // Moho Metal Maker - Converts Energy into Metal
-Weight ARMMMKR 
-Limit ARMMMKR 
+Weight ARMMMKR 0
+Limit ARMMMKR 0
 
 // Resource Production and Storage, Naval, Level 1
 // Tidal Generator - Produces Energy
-Weight ARMTIDE 
-Limit ARMTIDE 
+Weight ARMTIDE 0.7
+Limit ARMTIDE 99
 // Underwater Metal Extractor - Extracts Metal
-Weight ARMUWMEX 
-Limit ARMUWMEX 
+Weight ARMUWMEX 0.7
+Limit ARMUWMEX 99
 // Floating Metal Maker - Floating Metal Maker
-Weight ARMFMKR 
-Limit ARMFMKR 
+Weight ARMFMKR 0
+Limit ARMFMKR 0
 // Underwater Energy Storage - Increases Energy Storage
-Weight ARMUWES 
-Limit ARMUWES 
+Weight ARMUWES 0.1
+Limit ARMUWES 3
 // Underwater Metal Storage - Increases Metal Storage
-Weight ARMUWMS 
-Limit ARMUWMS 
+Weight ARMUWMS 0.1
+Limit ARMUWMS 3
 
 // Resource Production and Storage, Naval, Level 2
 // Underwater Fusion Plant - Produces Energy
-Weight ARMUWFUS 
-Limit ARMUWFUS 
+Weight ARMUWFUS 0.1
+Limit ARMUWFUS 3
 
 // Radar, Sonar, and Miscellaneous Uncategorizable Units
 // Radar Tower - Radar Tower
-Weight ARMRAD 
-Limit ARMRAD 
+Weight ARMRAD 0
+Limit ARMRAD 0
 // Sonar Station - Locates Water Units
-Weight ARMSONAR 
-Limit ARMSONAR 
+Weight ARMSONAR 0
+Limit ARMSONAR 0
 // Advanced Radar Tower - Long Range Radar Tower
-Weight ARMARAD 
-Limit ARMARAD 
+Weight ARMARAD 0
+Limit ARMARAD 0
 // Air Repair Pad - Automatically repairs aircraft
-Weight ARMASP 
-Limit ARMASP 
+Weight ARMASP 0.1
+Limit ARMASP 3
 // Targeting Facility - Automatic Radar Targeting
-Weight ARMTARG 
-Limit ARMTARG 
+Weight ARMTARG 0
+Limit ARMTARG 0
 // Advanced Sonar Station - Extended Sonar
-Weight ARMASON 
-Limit ARMASON 
+Weight ARMASON 0
+Limit ARMASON 0
 
 
 // CORE units 
 
 // Construction Buildings
 // Kbot Lab - Produces Kbots
-Weight CORLAB 
-Limit CORLAB 
+Weight CORLAB 0
+Limit CORLAB 0
 // Vehicle Plant - Produces Vehicles
-Weight CORVP 
-Limit CORVP 
+Weight CORVP 0
+Limit CORVP 0
 // Aircraft Plant - Produces Aircraft
-Weight CORAP 
-Limit CORAP 
+Weight CORAP 0.5
+Limit CORAP 99
 // Shipyard - Produces Ships
-Weight CORSY 
-Limit CORSY 
+Weight CORSY 0.5
+Limit CORSY 99
 // Hovercraft Platform - Builds Hovercraft
-Weight CORHP 
-Limit CORHP 
+Weight CORHP 0.5
+Limit CORHP 99
 // Seaplane Platform - Builds Seaplanes
 // Note: Seaplane Platform also builds aircraft Avenger and Titan
-Weight CORPLAT 
-Limit CORPLAT 
+Weight CORPLAT 0.5
+Limit CORPLAT 99
 // Adv. Kbot Lab - Produces Kbots
-Weight CORALAB 
-Limit CORALAB 
+Weight CORALAB 0
+Limit CORALAB 0
 // Adv. Vehicle Plant - Produces Vehicles
-Weight CORAVP 
-Limit CORAVP 
+Weight CORAVP 0
+Limit CORAVP 0
 // Adv. Aircraft Plant - Produces Aircraft
-Weight CORAAP 
-Limit CORAAP 
+Weight CORAAP 0.8
+Limit CORAAP 99
 // Adv. Shipyard - Produces Ships
-Weight CORASY 
-Limit CORASY 
+Weight CORASY 0.8
+Limit CORASY 99
 // Krogoth Gantry - Builds Krogoth
-Weight CORGANT 
-Limit CORGANT 
+Weight CORGANT 0
+Limit CORGANT 0
 
 // Kbots, Level 1, built by Kbot Lab
 // Construction KBot - Tech Level 1
-Weight CORCK 
-Limit CORCK 
+Weight CORCK 0
+Limit CORCK 0
 // A.K. - Infantry Kbot
-Weight CORAK 
-Limit CORAK 
+Weight CORAK 0
+Limit CORAK 0
 // Storm - Rocket Kbot
-Weight CORSTORM 
-Limit CORSTORM 
+Weight CORSTORM 0
+Limit CORSTORM 0
 // Thud - Artillery Kbot
-Weight CORTHUD 
-Limit CORTHUD 
+Weight CORTHUD 0
+Limit CORTHUD 0
 // Crasher - Missile Kbot
-Weight CORCRASH 
-Limit CORCRASH 
+Weight CORCRASH 0
+Limit CORCRASH 0
 
 // Kbots, Level 2, built by Adv. Kbot Lab
 // Adv. Construction Kbot - Tech Level 2
-Weight CORACK 
-Limit CORACK 
+Weight CORACK 0
+Limit CORACK 0
 // Pyro	- Assault Kbot
-Weight CORPYRO 
-Limit CORPYRO 
+Weight CORPYRO 0
+Limit CORPYRO 0
 // The Can - Armored Assault Kbot
-Weight CORCAN 
-Limit CORCAN 
+Weight CORCAN 0
+Limit CORCAN 0
 // Roach - Crawling Bomb
-Weight CORROACH 
-Limit CORROACH 
+Weight CORROACH 0
+Limit CORROACH 0
 // Spectre - Radar Jammer
-Weight CORSPEC 
-Limit CORSPEC 
+Weight CORSPEC 0
+Limit CORSPEC 0
 // Freaker - Fast Attack Kbot
-Weight CORFAST 
-Limit CORFAST
+Weight CORFAST 0
+Limit CORFAST0
 // Morty - Mobile Mortar Kbot
-Weight CORMORT 
-Limit CORMORT 
+Weight CORMORT 0
+Limit CORMORT 0
 // Dominator - Heavy Rocket Kbot
-Weight CORHRK 
-Limit CORHRK 
+Weight CORHRK 0
+Limit CORHRK 0
 // Voyeur - Mobile Radar Kbot
-Weight CORVOYR 
-Limit CORVOYR 
+Weight CORVOYR 0
+Limit CORVOYR 0
 // Sumo - Adv. Armored Assault Kbot
-Weight CORSUMO 
-Limit CORSUMO 
+Weight CORSUMO 0
+Limit CORSUMO 0
 // Gimp - Amphibious Kbot
-Weight CORAMPH 
-Limit CORAMPH 
+Weight CORAMPH 0
+Limit CORAMPH 0
 // Parasite - SPY Kbot
-Weight CORSPY 
-Limit CORSPY 
+Weight CORSPY 0
+Limit CORSPY 0
 // Decoy Commander - Decoy Commander
-Weight CORDECOM 
-Limit CORDECOM 
+Weight CORDECOM 0
+Limit CORDECOM 0
 // Resurrection Kbot - Resurrection Kbot
-Weight CORNECRO 
-Limit CORNECRO 
+Weight CORNECRO 0
+Limit CORNECRO 0
 
 // Kbots, Level 3, built by Krogoth Gantry
 // Krogoth - Experimental Kbot
-Weight CORKROG 
-Limit CORKROG 
+Weight CORKROG 0
+Limit CORKROG 0
 
 // Vehicles, Level 1, built by Vehicle Plant
 // Construction Vehicle - Tech Level 1
-Weight CORCV 
-Limit CORCV 
+Weight CORCV 0
+Limit CORCV 0
 // Weasel - Scout
-Weight CORFAV 
-Limit CORFAV 
+Weight CORFAV 0
+Limit CORFAV 0
 // Instigator - Assault Tank
-Weight CORGATOR 
-Limit CORGATOR 
+Weight CORGATOR 0
+Limit CORGATOR 0
 // Raider - Medium Assault Tank
-Weight CORRAID 
-Limit CORRAID 
+Weight CORRAID 0
+Limit CORRAID 0
 // Slasher - Missile Launcher
-Weight CORMIST 
-Limit CORMIST 
+Weight CORMIST 0
+Limit CORMIST 0
 // Spoiler - Mine Layer Vehicle
-Weight CORMLV 
-Limit CORMLV 
+Weight CORMLV 0
+Limit CORMLV 0
 // Leveler - Riot Tank
-Weight CORLEVLR 
-Limit CORLEVLR 
+Weight CORLEVLR 0
+Limit CORLEVLR 0
 
 // Vehicles, Level 2, built by Adv. Vehicle Plant
 // Adv. Construction Vehicle - Tech Level 2
-Weight CORACV 
-Limit CORACV 
+Weight CORACV 0
+Limit CORACV 0
 // Crock - Amphibious Tank
-Weight CORSEAL 
-Limit CORSEAL 
+Weight CORSEAL 0
+Limit CORSEAL 0
 // Reaper - Heavy Assault Tank
-Weight CORREAP 
-Limit CORREAP 
+Weight CORREAP 0
+Limit CORREAP 0
 // Deleter - Mobile Radar Jammer
-Weight CORETER 
-Limit CORETER 
+Weight CORETER 0
+Limit CORETER 0
 // Mobile Artillery - Mobile Artillery
-Weight CORMART 
-Limit CORMART 
+Weight CORMART 0
+Limit CORMART 0
 // Goliath - Very Heavy Assault Tank
-Weight CORGOL 
-Limit CORGOL 
+Weight CORGOL 0
+Limit CORGOL 0
 // Informer - Mobile Radar
-Weight CORVRAD 
-Limit CORVRAD 
+Weight CORVRAD 0
+Limit CORVRAD 0
 // Diplomat - Mobile Rocket Launcher
-Weight CORVROC 
-Limit CORVROC 
+Weight CORVROC 0
+Limit CORVROC 0
 // Copperhead - Mobile Flak Vehicle
-Weight CORSENT 
-Limit CORSENT 
+Weight CORSENT 0
+Limit CORSENT 0
 // Hedgehog - Mobile Fortitude Missile Defense, protection from nuclear missiles
-Weight CORMABM 
-Limit CORMABM 
+Weight CORMABM 0
+Limit CORMABM 0
 
 // Aircraft, Level 1, built by Aircraft Plant
 // Construction Aircraft - Tech Level 1
-Weight CORCA 
-Limit CORCA 
+Weight CORCA 0.3
+Limit CORCA 10
 // Fink - Air Scout
-Weight CORFINK 
-Limit CORFINK 
+Weight CORFINK 0
+Limit CORFINK 0
 // Avenger - Fighter
-Weight CORVENG 
-Limit CORVENG 
+Weight CORVENG 0.2
+Limit CORVENG 99
 // Shadow - Bomber
-Weight CORSHAD 
-Limit CORSHAD 
+Weight CORSHAD 0
+Limit CORSHAD 0
 // Valkyrie - Air Transport
-Weight CORVALK 
-Limit CORVALK 
+Weight CORVALK 0
+Limit CORVALK 0
 
 // Aircraft, Level 2, built by Adv. Aircraft Plant
 // Adv. Construction Aircraft - Tech Level 2
-Weight CORACA 
-Limit CORACA 
+Weight CORACA 0.9
+Limit CORACA 10
 // Rapier - Gunship
-Weight CORAPE 
-Limit CORAPE 
+Weight CORAPE 0.5
+Limit CORAPE 99
 // Hurricane - Strategic Bomber
-Weight CORHURC 
-Limit CORHURC 
+Weight CORHURC 0
+Limit CORHURC 0
 // Titan - Torpedo Bomber
-Weight CORTITAN 
-Limit CORTITAN 
+Weight CORTITAN 0.1
+Limit CORTITAN 99
 // Vamp - Stealth Fighter
-Weight CORVAMP 
-Limit CORVAMP 
+Weight CORVAMP 0.5
+Limit CORVAMP 99
 // Vulture - Radar Plane
-Weight CORAWAC 
-Limit CORAWAC 
+Weight CORAWAC 0
+Limit CORAWAC 0
 
 // Ships, Level 1, built by Shipyard
 // Construction Ship - Tech Level 1
-Weight CORCS 
-Limit CORCS 
+Weight CORCS 0.9
+Limit CORCS 10
 // Searcher - Scout Ship
-Weight CORPT 
-Limit CORPT 
+Weight CORPT 0.1
+Limit CORPT 99
 // Enforcer - Destroyer
-Weight CORROY 
-Limit CORROY 
+Weight CORROY 0.6
+Limit CORROY 99
 // Envoy - Transport Ship
-Weight CORTSHIP 
-Limit CORTSHIP 
+Weight CORTSHIP 0
+Limit CORTSHIP 0
 // Snake - Submarine
-Weight CORSUB 
-Limit CORSUB 
+Weight CORSUB 0.1
+Limit CORSUB 99
 
 // Ships, Level 2, built by Adv. Shipyard
 // Advanced Construction Sub - Tech Level 2
-Weight CORACSUB 
-Limit CORACSUB 
+Weight CORACSUB 0.8
+Limit CORACSUB 10
 // Hive - Light Carrier
-Weight CORCARRY 
-Limit CORCARRY 
+Weight CORCARRY 0
+Limit CORCARRY 0
 // Shark - Submarine Killer
-Weight CORSHARK 
-Limit CORSHARK 
+Weight CORSHARK 0.1
+Limit CORSHARK 99
 // Missile Frigate - Missile Ship
-Weight CORMSHIP 
-Limit CORMSHIP 
+Weight CORMSHIP 0.2
+Limit CORMSHIP 99
 // Executioner - Cruiser
-Weight CORCRUS 
-Limit CORCRUS 
+Weight CORCRUS 0.4
+Limit CORCRUS 99
 // Warlord - Battleship
-Weight CORBATS 
-Limit CORBATS 
+Weight CORBATS 0.3
+Limit CORBATS 99
 // Phantom - Radar Jammer Ship
-Weight CORSJAM 
-Limit CORSJAM 
+Weight CORSJAM 0
+Limit CORSJAM 0
 // Shredder - Anti-Air Ship
-Weight CORARCH 
-Limit CORARCH 
+Weight CORARCH 0.3
+Limit CORARCH 99
 // Leviathan - Battle Sub
-Weight CORSSUB 
-Limit CORSSUB 
+Weight CORSSUB 0.2
+Limit CORSSUB 99
 
 // Hovercraft, built by Hovercraft Platform
 // Construction Hovercraft - Tech Level 1
-Weight CORCH 
-Limit CORCH 
+Weight CORCH 0.3
+Limit CORCH 10
 // Scrubber - Scout Hovercraft
-Weight CORSH 
-Limit CORSH 
+Weight CORSH 0.1
+Limit CORSH 99
 // Snapper - Hovertank
-Weight CORSNAP 
-Limit CORSNAP 
+Weight CORSNAP 0.4
+Limit CORSNAP 99
 // Slinger - Anti-Air Hovercraft
-Weight CORAH 
-Limit CORAH 
+Weight CORAH 0.4
+Limit CORAH 99
 // Nixer - Hovercraft Rocket Launcher
-Weight CORMH 
-Limit CORMH 
+Weight CORMH 0.2
+Limit CORMH 99
 // Turtle - Transport Hovercraft
-Weight CORTHOVR 
-Limit CORTHOVR 
+Weight CORTHOVR 0
+Limit CORTHOVR 0
 
 // Seaplanes, built by Seaplane Platform
 // Note: Seaplane Platform also builds aircraft Avenger and Titan
 // Construction Seaplane - Tech Level 1
-Weight CORCSA 
-Limit CORCSA 
+Weight CORCSA 0.1
+Limit CORCSA 10
 // Hunter - Airborne Sonar
-Weight CORHUNT 
-Limit CORHUNT 
+Weight CORHUNT 0
+Limit CORHUNT 0
 // Voodoo - Seaplane Fighter
-Weight CORSFIG 
-Limit CORSFIG 
+Weight CORSFIG 0.2
+Limit CORSFIG 99
 // Typhoon - Torpedo Seaplane
-Weight CORSEAP 
-Limit CORSEAP 
+Weight CORSEAP 0.2
+Limit CORSEAP 99
 
 // Mines
 // M-104 - Low Damage, Med. Range Mine
-Weight CORMINE1 
-Limit CORMINE1 
+Weight CORMINE1 0
+Limit CORMINE1 0
 // M-209 - Low Damage, Large Range Mine
-Weight CORMINE2 
-Limit CORMINE2 
+Weight CORMINE2 0
+Limit CORMINE2 0
 // M-303 - Med. Damage, Med. Range Mine
-Weight CORMINE3 
-Limit CORMINE3 
+Weight CORMINE3 0
+Limit CORMINE3 0
 // M-420 - High Damage, Med. Range Mine
-Weight CORMINE4 
-Limit CORMINE4 
+Weight CORMINE4 0
+Limit CORMINE4 0
 // M-515 - High Damage, Large Range Mine
-Weight CORMINE5 
-Limit CORMINE5 
+Weight CORMINE5 0
+Limit CORMINE5 0
 // M-610 - Nuclear Mine
-Weight CORMINE6 
-Limit CORMINE6 
+Weight CORMINE6 0
+Limit CORMINE6 0
 
 // Defenses and LRPC, Land, Level 1
 // Light Laser Tower - Light Laser Tower
-Weight CORLLT 
-Limit CORLLT 
+Weight CORLLT 0
+Limit CORLLT 0
 // Gaat Gun - Heavy Laser Tower
-Weight CORHLT 
-Limit CORHLT 
+Weight CORHLT 0
+Limit CORHLT 0
 // Pulverizer - Missile Tower
-Weight CORRL 
-Limit CORRL 
+Weight CORRL 0.9
+Limit CORRL 99
 // Dragon's Teeth - Perimeter Defense
-Weight CORDRAG 
-Limit CORDRAG 
+Weight CORDRAG 0
+Limit CORDRAG 0
 // Punisher - Plasma Battery
-Weight CORPUN 
-Limit CORPUN 
+Weight CORPUN 0.8
+Limit CORPUN 99
 // Viper - Pop-Up Heavy Laser
-Weight CORVIPE 
-Limit CORVIPE 
+Weight CORVIPE 0
+Limit CORVIPE 0
 // Immolator - plasma tower
-Weight CORPLAS 
-Limit CORPLAS 
+Weight CORPLAS 0
+Limit CORPLAS 0
 
 // Defenses and LRPC, Land, Level 2
 // Intimidator - Long Range Plasma Cannon
-Weight CORINT 
-Limit CORINT 
+Weight CORINT 0.5
+Limit CORINT 99
 // Silencer - Nuclear Missile Launcher
-Weight CORSILO 
-Limit CORSILO 
+Weight CORSILO 0
+Limit CORSILO 0
 // Doomsday Machine - Energy weapon
-Weight CORDOOM 
-Limit CORDOOM 
+Weight CORDOOM 0.5
+Limit CORDOOM 99
 // Fortitude Missile Defense - Anti Missile Defense System
-Weight CORFMD 
-Limit CORFMD 
+Weight CORFMD 0
+Limit CORFMD 0
 // Cobra - Anti-Air Flak Gun
-Weight CORFLAK 
-Limit CORFLAK 
+Weight CORFLAK 0.9
+Limit CORFLAK 99
 // Fortification Wall - Perimeter Defense
-Weight CORFORT 
-Limit CORFORT 
+Weight CORFORT 0
+Limit CORFORT 0
 // Toaster - Pop-up Heavy Cannon
-Weight CORTOAST 
-Limit CORTOAST 
+Weight CORTOAST 0.1
+Limit CORTOAST 99
 // Buzzsaw - Rapid Fire Plasma Cannon
-Weight CORBUZZ 
-Limit CORBUZZ 
+Weight CORBUZZ 0.3
+Limit CORBUZZ 5
 // Neutron - Neutron Missile Launcher
-Weight CORTRON 
-Limit CORTRON 
+Weight CORTRON 0
+Limit CORTRON 0
 
 // Defenses and LRPC, Naval, Level 1
 // Stinger - Missile Tower - Naval Series
-Weight CORFRT 
-Limit CORFRT 
+Weight CORFRT 0.9
+Limit CORFRT 99
 // Floating Dragon's Teeth - Floating Dragon's Teeth
-Weight CORFDRAG 
-Limit CORFDRAG 
+Weight CORFDRAG 0
+Limit CORFDRAG 0
 // Thunderbolt - Floating Heavy Laser Tower
-Weight CORFHLT 
-Limit CORFHLT 
+Weight CORFHLT 0.1
+Limit CORFHLT 99
 // Torpedo Launcher - Torpedo Launcher
-Weight CORTL 
-Limit CORTL 
+Weight CORTL 0.3
+Limit CORTL 99
 
 // Defenses and LRPC, Naval, Level 2
 // Advanced Torpedo Launcher - Advanced Torpedo Launcher
-Weight CORATL 
-Limit CORATL 
+Weight CORATL 0.9
+Limit CORATL 99
 
 // Resource Production and Storage, Land, Level 1
 // Solar Collector - Produces Energy
-Weight CORSOLAR 
-Limit CORSOLAR 
+Weight CORSOLAR 0.8
+Limit CORSOLAR 10
 // Wind Generator - Produces Energy
-Weight CORWIN 
-Limit CORWIN 
+Weight CORWIN 0.8
+Limit CORWIN 10
 // Geothermal Powerplant - Produces Energy
-Weight CORGEO 
-Limit CORGEO 
+Weight CORGEO 0.8
+Limit CORGEO 99
 // Metal Extractor - Extracts Metal
-Weight CORMEX 
-Limit CORMEX 
+Weight CORMEX 0.8
+Limit CORMEX 99
 // Metal Maker - Metal Maker
-Weight CORMAKR 
-Limit CORMAKR 
+Weight CORMAKR 0
+Limit CORMAKR 0
 // Energy Storage - Increases Energy Storage
-Weight CORESTOR 
-Limit CORESTOR 
+Weight CORESTOR 0.1
+Limit CORESTOR 3
 // Metal Storage - Increases Metal Storage
-Weight CORMSTOR 
-Limit CORMSTOR 
+Weight CORMSTOR 0.1
+Limit CORMSTOR 3
 
 // Resource Production and Storage, Land, Level 2
 // Fusion Power Plant - Produces Energy
-Weight CORFUS 
-Limit CORFUS 
+Weight CORFUS 0.7
+Limit CORFUS 7
 // Cloakable Fusion Reactor - Produces Energy
-Weight CORCKFUS 
-Limit CORCKFUS 
+Weight CORCKFUS 0
+Limit CORCKFUS 0
 // Moho Mine - Advanced Metal Extractor
-Weight CORMOHO 
-Limit CORMOHO 
+Weight CORMOHO 0.9
+Limit CORMOHO 99
 // Moho Metal Maker - Produces Metal
-Weight CORMMKR 
-Limit CORMMKR 
+Weight CORMMKR 0
+Limit CORMMKR 0
 
 // Resource Production and Storage, Naval, Level 1
 // Tidal Generator - Produces Energy
-Weight CORTIDE 
-Limit CORTIDE 
+Weight CORTIDE 0.7
+Limit CORTIDE 99
 // Underwater Metal Extractor - Extracts Metal
-Weight CORUWMEX 
-Limit CORUWMEX 
+Weight CORUWMEX 0.7
+Limit CORUWMEX 99
 // Floating Metal Maker - Floating Metal Maker
-Weight CORFMKR 
-Limit CORFMKR 
+Weight CORFMKR 0
+Limit CORFMKR 0
 // Underwater Energy Storage - Increases Energy Storage
-Weight CORUWES 
-Limit CORUWES 
+Weight CORUWES 0.1
+Limit CORUWES 3
 // Underwater Metal Storage - Increases Metal Storage
-Weight CORUWMS 
-Limit CORUWMS 
+Weight CORUWMS 0.1
+Limit CORUWMS 3
 
 // Resource Production and Storage, Naval, Level 2
 // Underwater Fusion Plant - Produces Energy
-Weight CORUWFUS 
-Limit CORUWFUS 
+Weight CORUWFUS 0.1
+Limit CORUWFUS 3
 
 // Radar, Sonar, and Miscellaneous Uncategorizable Units
 // Radar Tower - Radar Tower
-Weight CORRAD 
-Limit CORRAD 
+Weight CORRAD 0
+Limit CORRAD 0
 // Sonar Station - Sonar Station
-Weight CORSONAR 
-Limit CORSONAR 
+Weight CORSONAR 0
+Limit CORSONAR 0
 // Advanced Radar Tower - Long Range Radar
-Weight CORARAD 
-Limit CORARAD 
+Weight CORARAD 0
+Limit CORARAD 0
 // Air Repair Pad - Automatically repairs aircraft
-Weight CORASP 
-Limit CORASP 
+Weight CORASP 0.1
+Limit CORASP 3
 // Targeting Facility - Automatic Radar Targeting
-Weight CORTARG 
-Limit CORTARG 
+Weight CORTARG 0
+Limit CORTARG 0
 // Advanced Sonar Station - Locates Water Units
-Weight CORASON 
-Limit CORASON 
+Weight CORASON 0
+Limit CORASON 0
