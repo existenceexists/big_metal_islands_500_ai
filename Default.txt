@@ -369,10 +369,10 @@ Limit ARMATL 99
 // Resource Production and Storage, Land, Level 1
 // Solar Collector - Produces Energy
 Weight ARMSOLAR 0.8
-Limit ARMSOLAR 10
+Limit ARMSOLAR 99
 // Wind Generator - Produces Energy
 Weight ARMWIN 0.8
-Limit ARMWIN 10
+Limit ARMWIN 99
 // Geothermal Powerplant - Produces Energy
 Weight ARMGEO 0.8
 Limit ARMGEO 99
@@ -391,8 +391,8 @@ Limit ARMMSTOR 3
 
 // Resource Production and Storage, Land, Level 2
 // Fusion Reactor - Produces Energy
-Weight ARMFUS 0.7
-Limit ARMFUS 7
+Weight ARMFUS 0.9
+Limit ARMFUS 10
 // Cloakable Fusion Reactor - Produces Energy
 Weight ARMCKFUS 0
 Limit ARMCKFUS 0
@@ -405,7 +405,7 @@ Limit ARMMMKR 0
 
 // Resource Production and Storage, Naval, Level 1
 // Tidal Generator - Produces Energy
-Weight ARMTIDE 0.7
+Weight ARMTIDE 0.9
 Limit ARMTIDE 99
 // Underwater Metal Extractor - Extracts Metal
 Weight ARMUWMEX 0.7
@@ -422,8 +422,8 @@ Limit ARMUWMS 3
 
 // Resource Production and Storage, Naval, Level 2
 // Underwater Fusion Plant - Produces Energy
-Weight ARMUWFUS 0.1
-Limit ARMUWFUS 3
+Weight ARMUWFUS 0.9
+Limit ARMUWFUS 10
 
 // Radar, Sonar, and Miscellaneous Uncategorizable Units
 // Radar Tower - Radar Tower
@@ -817,10 +817,10 @@ Limit CORATL 99
 // Resource Production and Storage, Land, Level 1
 // Solar Collector - Produces Energy
 Weight CORSOLAR 0.8
-Limit CORSOLAR 10
+Limit CORSOLAR 99
 // Wind Generator - Produces Energy
 Weight CORWIN 0.8
-Limit CORWIN 10
+Limit CORWIN 99
 // Geothermal Powerplant - Produces Energy
 Weight CORGEO 0.8
 Limit CORGEO 99
@@ -839,8 +839,8 @@ Limit CORMSTOR 3
 
 // Resource Production and Storage, Land, Level 2
 // Fusion Power Plant - Produces Energy
-Weight CORFUS 0.7
-Limit CORFUS 7
+Weight CORFUS 0.9
+Limit CORFUS 10
 // Cloakable Fusion Reactor - Produces Energy
 Weight CORCKFUS 0
 Limit CORCKFUS 0
@@ -853,7 +853,7 @@ Limit CORMMKR 0
 
 // Resource Production and Storage, Naval, Level 1
 // Tidal Generator - Produces Energy
-Weight CORTIDE 0.7
+Weight CORTIDE 0.9
 Limit CORTIDE 99
 // Underwater Metal Extractor - Extracts Metal
 Weight CORUWMEX 0.7
@@ -870,8 +870,8 @@ Limit CORUWMS 3
 
 // Resource Production and Storage, Naval, Level 2
 // Underwater Fusion Plant - Produces Energy
-Weight CORUWFUS 0.1
-Limit CORUWFUS 3
+Weight CORUWFUS 0.9
+Limit CORUWFUS 10
 
 // Radar, Sonar, and Miscellaneous Uncategorizable Units
 // Radar Tower - Radar Tower
