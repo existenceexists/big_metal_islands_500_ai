@@ -369,16 +369,16 @@ Limit ARMATL 99
 // Resource Production and Storage, Land, Level 1
 // Solar Collector - Produces Energy
 Weight ARMSOLAR 0.8
-Limit ARMSOLAR 99
+Limit ARMSOLAR 20
 // Wind Generator - Produces Energy
 Weight ARMWIN 0.8
-Limit ARMWIN 99
+Limit ARMWIN 20
 // Geothermal Powerplant - Produces Energy
 Weight ARMGEO 0.8
-Limit ARMGEO 99
+Limit ARMGEO 20
 // Metal Extractor - Extracts Metal
 Weight ARMMEX 0.8
-Limit ARMMEX 99
+Limit ARMMEX 30
 // Metal Maker - Converts Energy into Metal
 Weight ARMMAKR 0
 Limit ARMMAKR 0
@@ -398,7 +398,7 @@ Weight ARMCKFUS 0
 Limit ARMCKFUS 0
 // Moho Mine - Advanced Metal Extractor
 Weight ARMMOHO 0.9
-Limit ARMMOHO 99
+Limit ARMMOHO 30
 // Moho Metal Maker - Converts Energy into Metal
 Weight ARMMMKR 0
 Limit ARMMMKR 0
@@ -406,10 +406,10 @@ Limit ARMMMKR 0
 // Resource Production and Storage, Naval, Level 1
 // Tidal Generator - Produces Energy
 Weight ARMTIDE 0.9
-Limit ARMTIDE 99
+Limit ARMTIDE 30
 // Underwater Metal Extractor - Extracts Metal
 Weight ARMUWMEX 0.7
-Limit ARMUWMEX 99
+Limit ARMUWMEX 30
 // Floating Metal Maker - Floating Metal Maker
 Weight ARMFMKR 0
 Limit ARMFMKR 0
@@ -817,16 +817,16 @@ Limit CORATL 99
 // Resource Production and Storage, Land, Level 1
 // Solar Collector - Produces Energy
 Weight CORSOLAR 0.8
-Limit CORSOLAR 99
+Limit CORSOLAR 20
 // Wind Generator - Produces Energy
 Weight CORWIN 0.8
-Limit CORWIN 99
+Limit CORWIN 20
 // Geothermal Powerplant - Produces Energy
 Weight CORGEO 0.8
-Limit CORGEO 99
+Limit CORGEO 20
 // Metal Extractor - Extracts Metal
 Weight CORMEX 0.8
-Limit CORMEX 99
+Limit CORMEX 30
 // Metal Maker - Metal Maker
 Weight CORMAKR 0
 Limit CORMAKR 0
@@ -846,7 +846,7 @@ Weight CORCKFUS 0
 Limit CORCKFUS 0
 // Moho Mine - Advanced Metal Extractor
 Weight CORMOHO 0.9
-Limit CORMOHO 99
+Limit CORMOHO 30
 // Moho Metal Maker - Produces Metal
 Weight CORMMKR 0
 Limit CORMMKR 0
@@ -854,10 +854,10 @@ Limit CORMMKR 0
 // Resource Production and Storage, Naval, Level 1
 // Tidal Generator - Produces Energy
 Weight CORTIDE 0.9
-Limit CORTIDE 99
+Limit CORTIDE 30
 // Underwater Metal Extractor - Extracts Metal
 Weight CORUWMEX 0.7
-Limit CORUWMEX 99
+Limit CORUWMEX 30
 // Floating Metal Maker - Floating Metal Maker
 Weight CORFMKR 0
 Limit CORFMKR 0
